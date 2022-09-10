@@ -3,7 +3,7 @@
  * 
  * @author Shvets Anton
  * @todo 07.09.22
- * @date 
+ * @date  10.09.22
  */
  
 class dz2September {
