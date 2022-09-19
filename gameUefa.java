@@ -1,3 +1,11 @@
+/**
+ *  Java Basic. Homework #4
+ * 
+ * @author Shvets Anton
+ * @todo 17.09.22
+ * @date  19.09.22
+ */
+
 import java.util.Scanner;
 
 public class gameUefa {
